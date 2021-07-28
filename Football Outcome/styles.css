@@ -1,0 +1,33 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.score {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #e5e5e5;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 2px 0 #232931;
+  font-size: 8rem;
+  color: #c1a57b;
+}
+
+p {
+  font-size: 2rem;
+  color: #000000;
+  font-family: 'Indie Flower';
+}
+
+img {
+  width: 80%;
+}
