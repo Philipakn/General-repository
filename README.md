@@ -1,2 +1,2 @@
-# Javascript-repository
-Das repository enthält Javascript Projekten.
+# General Repository
+Das repository enthält alle arten von Projekten.
